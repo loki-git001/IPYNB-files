@@ -240,3 +240,6 @@ DL/models/
 *.csv
 *.parquet
 *.zip
+
+
+models/
